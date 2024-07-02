@@ -29,6 +29,7 @@
 
 ## 图标库
 - [iconify](https://iconify.design/): 超全的图标库，支持各种格式。
+- [unicornicons](https://unicornicons.com/): 动态的图标库，非常适用于 hover 图标时的效果
 - [iconbuddy](https://iconbuddy.app/)
 - [fontawesome](https://fontawesome.com/icons)
 - [MingCute](https://www.mingcute.com/)
@@ -39,6 +40,9 @@
 - [logodiffusion](https://logodiffusion.com/)
 - [icon horse](https://icon.horse/) 
 - [favicon generator](https://realfavicongenerator.net/)
+
+## Figma 资源
+- [VectorTo3D 插件](https://www.figma.com/community/plugin/1264600219316901594/vector-to-3d)
 
 ## 设计学习资源
 - [5 课时让你掌握 Lottie 动画](https://heyjerio.notion.site/5-Lottie-83321ca1ab0e4687a49088b79f3d43a7)
