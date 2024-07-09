@@ -43,6 +43,7 @@
 
 ## Figma 资源
 - [VectorTo3D 插件](https://www.figma.com/community/plugin/1264600219316901594/vector-to-3d)
+- [Figma Resource](https://github.com/figma/plugin-resources?tab=readme-ov-file)
 
 ## 设计学习资源
 - [5 课时让你掌握 Lottie 动画](https://heyjerio.notion.site/5-Lottie-83321ca1ab0e4687a49088b79f3d43a7)
