@@ -2,8 +2,6 @@
 
 本仓库旨在收录国内/外优秀的设计工具，为独立开发者提供产品设计灵感。
 
-每周五更新，持续更新中……
-
 ## 动画示例
 - [uiGradients](https://uigradients.com): 渐变效果合集
 - [Animista](https://animista.net): CSS3 动画效果合集
