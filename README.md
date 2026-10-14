@@ -37,6 +37,7 @@
 - [iconray](https://icon.ray.so/)
 - [logodiffusion](https://logodiffusion.com/)
 - [icon horse](https://icon.horse/) 
+- [FaviconDL](https://favicondl.com/): 免费提取/下载任意网站 favicon（ICO/PNG/SVG），带无 key API
 - [favicon generator](https://realfavicongenerator.net/)
 
 ## Figma 资源
